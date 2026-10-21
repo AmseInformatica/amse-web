@@ -26,7 +26,7 @@ html {
 }
 
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   color: var(--gris-texto);
   background: var(--blanco);
 }
@@ -87,7 +87,7 @@ nav {
 
 .nav-links a {
   text-decoration: none;
-  font-family: 'Montserrat', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 600;
   font-size: 0.82rem;
   color: var(--gris-texto);
@@ -114,7 +114,7 @@ nav {
   background: rgba(214, 0, 28, 0.04);
   box-shadow: 0 0 5px rgba(214, 0, 28, 0.9), 0 0 12px rgba(214, 0, 28, 0.5);
   color: var(--rojo);
-  font-family: 'Montserrat', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 0.82rem;
   font-weight: 600;
   letter-spacing: 0.5px;
@@ -225,7 +225,7 @@ nav {
 }
 
 .hero-content h1 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 800;
   font-size: clamp(1.1rem, 2.8vw, 1.7rem);
   color: var(--blanco);
@@ -249,7 +249,7 @@ nav {
   display: inline-block;
   margin-top: 16px;
   font-size: 0.78rem;
-  font-family: 'Montserrat', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 600;
   letter-spacing: 3px;
   text-transform: uppercase;
@@ -270,7 +270,7 @@ section {
 }
 
 .section-title {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 800;
   font-size: 1.7rem;
   color: var(--mineral);
@@ -344,7 +344,7 @@ section {
 .certificacion-calidad-etiqueta {
   margin: 0 0 5px;
   color: var(--rojo);
-  font-family: 'Montserrat', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 0.72rem;
   font-weight: 700;
   letter-spacing: 0.09em;
@@ -354,7 +354,7 @@ section {
 .certificacion-calidad h3 {
   margin: 0 0 10px;
   color: var(--mineral);
-  font-family: 'Montserrat', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: clamp(1.1rem, 2vw, 1.45rem);
 }
 
@@ -401,7 +401,7 @@ section {
 }
 
 .vm-card h3 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 700;
   font-size: 1rem;
   color: var(--rojo);
@@ -478,7 +478,7 @@ section {
 }
 
 .servicio-body h3 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 700;
   font-size: 0.95rem;
   color: var(--rojo);
@@ -555,7 +555,7 @@ section {
 }
 
 .proyecto-header h3 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 700;
   font-size: 0.88rem;
   color: var(--blanco);
@@ -575,11 +575,11 @@ section {
   letter-spacing: 1.5px;
   color: var(--mineral);
   margin-bottom: 4px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .proyecto-body .cliente-nombre {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 700;
   font-size: 1rem;
   color: var(--gris-texto);
@@ -626,7 +626,7 @@ section {
 }
 
 .sucursal-info h3 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 700;
   font-size: 1.05rem;
   color: var(--rojo);
@@ -687,7 +687,7 @@ section {
   border-radius: 6px;
   padding: 12px 16px;
   color: var(--blanco);
-  font-family: 'Open Sans', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 0.9rem;
   outline: none;
   transition: border 0.2s;
@@ -709,7 +709,7 @@ section {
   gap: 10px;
   align-items: start;
   color: rgba(255,255,255,0.78);
-  font-family: 'Open Sans', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 0.82rem;
   line-height: 1.55;
 }
@@ -736,7 +736,7 @@ section {
 .form-privacidad-aviso {
   margin: -4px 0 0;
   color: rgba(255,255,255,0.62);
-  font-family: 'Open Sans', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 0.78rem;
   line-height: 1.55;
 }
@@ -747,7 +747,7 @@ section {
   border: none;
   border-radius: 6px;
   padding: 13px 32px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 700;
   font-size: 0.9rem;
   letter-spacing: 1px;
@@ -784,7 +784,7 @@ section {
   color: var(--blanco);
   text-decoration: none;
   font-size: 0.82rem;
-  font-family: 'Montserrat', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 600;
   transition: background 0.2s, border-color 0.2s;
 }
@@ -818,7 +818,7 @@ footer {
   text-align: center;
   padding: 22px;
   font-size: 0.8rem;
-  font-family: 'Montserrat', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 footer a {
@@ -870,7 +870,7 @@ footer a:hover {
 }
 
 .footer-privacy-link {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 0.8rem;
 }
 
@@ -911,7 +911,7 @@ footer a:hover {
 .privacidad-modal-header h2 {
   margin: 0;
   color: #ffffff;
-  font-family: 'Montserrat', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 1.35rem;
   line-height: 1.25;
 }
@@ -943,7 +943,7 @@ footer a:hover {
 .privacidad-content h3 {
   margin: 28px 0 12px;
   color: var(--rojo);
-  font-family: 'Montserrat', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 1rem;
   line-height: 1.35;
 }
@@ -1288,7 +1288,7 @@ body.modal-open {
 }
 
 .servicio-letra {
-  font-family: 'Bunken Tech Sans Wide', 'Montserrat', sans-serif;
+  font-family: 'Bunken Tech Sans Wide', Arial, Helvetica, sans-serif;
   font-size: clamp(3.2rem, 5vw, 5.2rem);
   font-weight: 700;
   line-height: 1;
@@ -1305,7 +1305,7 @@ body.modal-open {
 
 /* TÃ­tulo del servicio: mantiene fuente anterior */
 .servicio-body h3 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 700;
   letter-spacing: 0.5px;
   color: var(--rojo);
@@ -1413,7 +1413,7 @@ body.modal-open {
   padding: 13px 16px;
   border-radius: 6px;
   margin-bottom: 24px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 0.9rem;
   font-weight: 600;
 }
@@ -1442,7 +1442,7 @@ body.modal-open {
   padding: 14px 18px;
   border-radius: 8px;
   margin-bottom: 26px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 0.92rem;
   font-weight: 700;
   line-height: 1.5;
@@ -1505,3 +1505,54 @@ body.modal-open {
 .cookie-banner div { display: flex; flex-wrap: wrap; gap: 12px; }
 .cookie-banner [data-cookie-choice] { flex: 1; padding: 12px 18px; background: #17212d; color: white; border: 2px solid #17212d; border-radius: 6px; cursor: pointer; font: inherit; }
 .cookie-banner button:focus-visible { outline: 3px solid #d6001c; outline-offset: 3px; }
+
+/* Ajuste de composición y navegación */
+html { scroll-padding-top: 88px; }
+nav { height: 80px; padding-inline: clamp(20px, 4vw, 64px); gap: 24px; }
+.nav-logo img { width: 124px; height: 62px; max-height: none; }
+.nav-links { align-items: center; gap: 4px; }
+.nav-links a { display: flex; align-items: center; min-height: 42px; padding: 10px; font-size: .75rem; letter-spacing: .2px; white-space: nowrap; }
+.nav-links .nav-intranet { box-shadow: none; background: #fff; font-size: .75rem; padding: 10px 14px; }
+.nav-links .nav-intranet:hover { box-shadow: none; }
+#inicio { height: auto; min-height: 420px; padding: 64px 0; justify-content: flex-start; }
+.hero-bg { background-image: linear-gradient(90deg, rgba(13,25,31,.88), rgba(13,25,31,.66) 55%, rgba(13,25,31,.25)), url('../img/site/banner-principal.webp'); background-position: center 48%; }
+.hero-bg::before { display: none; }
+.hero-content { width: 100%; max-width: 1160px; margin: 0 auto; padding: 0 30px; text-align: left; }
+.hero-eyebrow { color: #c6d9d9; font-size: .75rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 18px; }
+.hero-content h1 { max-width: 790px; font-family: Arial, Helvetica, sans-serif; font-size: clamp(1.8rem, 3.1vw, 2.75rem); line-height: 1.16; letter-spacing: -.6px; font-weight: 700; text-wrap: balance; }
+.hero-description { max-width: 620px; margin: 22px 0 0; font-size: 1.05rem; line-height: 1.65; }
+.hero-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 28px; }
+.hero-actions a { display: inline-flex; align-items: center; justify-content: center; min-height: 46px; padding: 12px 22px; border: 1px solid #ffffff80; border-radius: 5px; color: white; text-decoration: none; font-size: .9rem; font-weight: 700; }
+.hero-actions a:first-child { background: var(--rojo); border-color: var(--rojo); }
+.hero-actions a:hover { background: white; border-color: white; color: #17212d; }
+#quienes { padding-top: 52px; }
+.section-title { font-size: 1.8rem; margin-bottom: 30px; color: #416a6c; }
+.quienes-grid { gap: 36px; }
+.amsito-whatsapp { width: 66px; right: 20px; bottom: 20px; }
+.cookie-banner { max-height: calc(100dvh - 24px); overflow-y: auto; }
+@media (min-width: 769px) and (max-width: 1100px) {
+ nav { padding-inline: 18px; gap: 12px; }
+ .nav-logo img { width: 100px; }
+ .nav-links a, .nav-links .nav-intranet { font-size: .64rem; padding: 9px 6px; }
+}
+@media (max-width: 768px) {
+ nav { height: 70px; padding-inline: 20px; }
+ .nav-logo img { width: 110px; height: 55px; }
+ .nav-links { top: 70px; align-items: stretch; max-height: calc(100dvh - 70px); }
+ .nav-links a, .nav-links .nav-intranet { font-size: .82rem; padding: 13px 14px; }
+ #inicio { min-height: 450px; padding: 44px 0; }
+ .hero-content { padding-inline: 24px; }
+ .hero-content h1 { font-size: clamp(1.8rem, 6.4vw, 2.4rem); }
+ .hero-description { font-size: .95rem; margin-top: 18px; }
+ .hero-eyebrow { font-size: .68rem; letter-spacing: 1.4px; }
+ .hero-actions { margin-top: 22px; }
+ .hero-actions a { padding-inline: 16px; }
+ .amsito-whatsapp { width: 56px; right: 12px; bottom: 12px; }
+ .quienes-img { max-height: 180px; }
+ .section-title { font-size: 1.6rem; }
+ .cookie-banner { padding: 16px; font-size: .9rem; }
+}
+@media (prefers-reduced-motion: reduce) {
+ html { scroll-behavior: auto; }
+ *, *::before, *::after { animation: none !important; transition: none !important; }
+}
