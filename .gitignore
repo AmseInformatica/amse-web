@@ -1,0 +1,11 @@
+.netlify/
+.tools/
+*.zip
+
+dist/
+entrega/
+
+tmp/
+__pycache__/
+.env
+.env.*

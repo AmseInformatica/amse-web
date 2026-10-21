@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.amse.cl/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <image:image>
+      <image:loc>https://www.amse.cl/assets/img/site/banner-principal.webp</image:loc>
+      <image:title>AMSE SPA - Soluciones eléctricas industriales</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.amse.cl/assets/img/site/logo-amse.jpg</image:loc>
+      <image:title>Logo oficial de AMSE SPA</image:title>
+    </image:image>
+  </url>
+</urlset>
